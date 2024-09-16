@@ -1,0 +1,321 @@
+[
+    {
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "description": "XYZ Project: Sprint Planning",
+        "participants": [
+            "Sushant Sehgal",
+            "Neha",
+            "Sumit Arora",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time": "15:15",
+        "end_time": "17:15",
+        "description": "XYZ Project: Design Brainstorming",
+        "participants": [
+            "Akhil Gupta",
+            "Sushant Sehgal",
+            "Neha",
+            "Rohit Sharma",
+            "Meenal",
+            "Sahil Arora",
+            "Sumit Arora"
+        ]
+    },
+    {
+        "start_time": "08:45",
+        "end_time": "09:45",
+        "description": "XYZ Project: Onboarding Session",
+        "participants": [
+            "Neha",
+            "Sahil Arora",
+            "Akhil Gupta",
+            "Rohit Sharma",
+            "Sumit Arora",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time": "08:15",
+        "end_time": "10:15",
+        "description": "XYZ Project: Client Feedback Session",
+        "participants": [
+            "Meenal",
+            "Neha",
+            "Sahil Arora"
+        ]
+    },
+    {
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "description": "XYZ Project: UI/UX Workshop",
+        "participants": [
+            "Sushant Sehgal",
+            "Rohit Sharma",
+            "Sakshi",
+            "Sahil Arora",
+            "Neha",
+            "Meenal",
+            "Akhil Gupta",
+            "Sumit Arora"
+        ]
+    },
+    {
+        "start_time": "11:15",
+        "end_time": "13:15",
+        "description": "XYZ Project: Feature Implementation Review",
+        "participants": [
+            "Akhil Gupta",
+            "Sumit Arora",
+            "Neha",
+            "Meenal",
+            "Sushant Sehgal",
+            "Sakshi",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time": "15:00",
+        "end_time": "16:00",
+        "description": "XYZ Project: Design Brainstorming",
+        "participants": [
+            "Akhil Gupta",
+            "Sahil Arora",
+            "Rohit Sharma",
+            "Sumit Arora",
+            "Meenal",
+            "Sushant Sehgal",
+            "Neha"
+        ]
+    },
+    {
+        "start_time": "13:00",
+        "end_time": "15:00",
+        "description": "XYZ Project: Onboarding Session",
+        "participants": [
+            "Neha",
+            "Meenal",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time": "11:45",
+        "end_time": "12:45",
+        "description": "XYZ Project: Code Review",
+        "participants": [
+            "Sakshi",
+            "Neha"
+        ]
+    },
+    {
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "description": "XYZ Project: Onboarding Session",
+        "participants": [
+            "Meenal",
+            "Neha"
+        ]
+    },
+    {
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "description": "XYZ Project: Stand-up Meeting",
+        "participants": [
+            "Rohit Sharma",
+            "Sakshi",
+            "Akhil Gupta"
+        ]
+    },
+    {
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "description": "XYZ Project: Bug Triage",
+        "participants": [
+            "Sumit Arora",
+            "Sahil Arora",
+            "Meenal"
+        ]
+    },
+    {
+        "start_time": "09:15",
+        "end_time": "10:15",
+        "description": "XYZ Project: Roadmap Update",
+        "participants": [
+            "Sushant Sehgal",
+            "Neha",
+            "Akhil Gupta"
+        ]
+    },
+    {
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "description": "XYZ Project: Retrospective Meeting",
+        "participants": [
+            "Rohit Sharma",
+            "Meenal",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "description": "XYZ Project: Client Feedback Session",
+        "participants": [
+            "Sahil Arora",
+            "Sumit Arora",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "description": "XYZ Project: UI/UX Workshop",
+        "participants": [
+            "Neha",
+            "Sushant Sehgal",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time": "14:45",
+        "end_time": "15:45",
+        "description": "XYZ Project: Feature Implementation Review",
+        "participants": [
+            "Meenal",
+            "Akhil Gupta",
+            "Sahil Arora"
+        ]
+    },
+    {
+        "start_time": "09:45",
+        "end_time": "11:45",
+        "description": "XYZ Project: Design Brainstorming",
+        "participants": [
+            "Sakshi",
+            "Sumit Arora",
+            "Neha"
+        ]
+    },
+    {
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "description": "XYZ Project: Onboarding Session",
+        "participants": [
+            "Rohit Sharma",
+            "Sahil Arora",
+            "Meenal"
+        ]
+    },
+    {
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "description": "XYZ Project: Code Review",
+        "participants": [
+            "Akhil Gupta",
+            "Sushant Sehgal",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time": "13:15",
+        "end_time": "14:15",
+        "description": "XYZ Project: Onboarding Session",
+        "participants": [
+            "Sumit Arora",
+            "Neha",
+            "Sahil Arora"
+        ]
+    },
+    {
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "description": "XYZ Project: Stand-up Meeting",
+        "participants": [
+            "Meenal",
+            "Rohit Sharma",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "description": "XYZ Project: Bug Triage",
+        "participants": [
+            "Sakshi",
+            "Akhil Gupta",
+            "Sumit Arora"
+        ]
+    },
+    {
+        "start_time": "10:45",
+        "end_time": "11:45",
+        "description": "XYZ Project: Roadmap Update",
+        "participants": [
+            "Neha",
+            "Sahil Arora",
+            "Meenal"
+        ]
+    },
+    {
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "description": "XYZ Project: Retrospective Meeting",
+        "participants": [
+            "Sushant Sehgal",
+            "Sumit Arora",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "description": "XYZ Project: Client Feedback Session",
+        "participants": [
+            "Akhil Gupta",
+            "Rohit Sharma",
+            "Neha"
+        ]
+    },
+    {
+        "start_time": "14:15",
+        "end_time": "15:15",
+        "description": "XYZ Project: UI/UX Workshop",
+        "participants": [
+            "Meenal",
+            "Sahil Arora",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "description": "XYZ Project: Feature Implementation Review",
+        "participants": [
+            "Sakshi",
+            "Sumit Arora",
+            "Akhil Gupta"
+        ]
+    },
+    {
+        "start_time": "16:15",
+        "end_time": "17:15",
+        "description": "XYZ Project: Design Brainstorming",
+        "participants": [
+            "Neha",
+            "Rohit Sharma",
+            "Meenal"
+        ]
+    },
+    {
+        "start_time": "12:45",
+        "end_time": "13:45",
+        "description": "XYZ Project: Onboarding Session",
+        "participants": [
+            "Sahil Arora",
+            "Sushant Sehgal",
+            "Sakshi"
+        ]
+    }
+]
