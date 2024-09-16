@@ -13,7 +13,7 @@ class Meeting(BaseModel):
     description: str
     participants: List[str]
 
-@app.get("/meetings/", response_model=List[Meeting])
+@app.get("/meetings", response_model=List[Meeting])
 async def get_meetings(date: str):
     """
     Function to handle API endpoint logic.
