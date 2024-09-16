@@ -1,0 +1,22 @@
+[
+    {
+        "start_time":"15:15",
+        "end_time":"16:15",
+        "description":"XYZ Project: Retrospective Meeting",
+        "participants":[
+            "Meenal"
+        ]
+    },
+    {
+        "start_time":"14:45",
+        "end_time":"16:45",
+        "description":"XYZ Project: Design Brainstorming",
+        "participants":[
+            "Sushant Sehgal",
+            "Sahil Arora",
+            "Akhil Gupta",
+            "Rohit Sharma",
+            "Sakshi"
+        ]
+    }
+]

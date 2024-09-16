@@ -1,0 +1,105 @@
+[
+    {
+        "start_time":"16:00",
+        "end_time":"18:00",
+        "description":"XYZ Project: Retrospective Meeting",
+        "participants":[
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time":"09:00",
+        "end_time":"11:00",
+        "description":"XYZ Project: Client Feedback Session",
+        "participants":[
+            "Sakshi",
+            "Akhil Gupta",
+            "Rohit Sharma",
+            "Sahil Arora",
+            "Neha"
+        ]
+    },
+    {
+        "start_time":"15:30",
+        "end_time":"16:30",
+        "description":"XYZ Project: Code Review",
+        "participants":[
+            "Neha",
+            "Sakshi",
+            "Sahil Arora",
+            "Sumit Arora",
+            "Akhil Gupta"
+        ]
+    },
+    {
+        "start_time":"10:15",
+        "end_time":"12:15",
+        "description":"XYZ Project: Design Brainstorming",
+        "participants":[
+            "Sahil Arora",
+            "Sakshi",
+            "Sumit Arora"
+        ]
+    },
+    {
+        "start_time":"13:45",
+        "end_time":"14:45",
+        "description":"XYZ Project: Code Review",
+        "participants":[
+            "Sushant Sehgal",
+            "Meenal",
+            "Sakshi",
+            "Akhil Gupta"
+        ]
+    },
+    {
+        "start_time":"14:00",
+        "end_time":"15:00",
+        "description":"XYZ Project: Roadmap Update",
+        "participants":[
+            "Akhil Gupta",
+            "Sakshi",
+            "Neha",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time":"14:45",
+        "end_time":"15:45",
+        "description":"XYZ Project: Bug Triage",
+        "participants":[
+            "Sumit Arora",
+            "Sahil Arora",
+            "Meenal",
+            "Sakshi",
+            "Akhil Gupta"
+        ]
+    },
+    {
+        "start_time":"13:30",
+        "end_time":"15:30",
+        "description":"XYZ Project: Architecture Discussion",
+        "participants":[
+            "Neha",
+            "Sahil Arora"
+        ]
+    },
+    {
+        "start_time":"09:00",
+        "end_time":"10:00",
+        "description":"XYZ Project: Onboarding Session",
+        "participants":[
+            "Meenal",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time":"08:30",
+        "end_time":"09:30",
+        "description":"XYZ Project: Client Feedback Session",
+        "participants":[
+            "Meenal",
+            "Neha"
+        ]
+    }
+]

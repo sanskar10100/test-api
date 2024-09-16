@@ -1,0 +1,39 @@
+[
+    {
+        "start_time":"11:15",
+        "end_time":"13:15",
+        "description":"development team of XYZ project: brainstorming session",
+        "participants":[
+            "Neha",
+            "Sumit Arora",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time":"11:00",
+        "end_time":"13:00",
+        "description":"development team of XYZ project: brainstorming session",
+        "participants":[
+            "Sumit Arora",
+            "Akhil Gupta",
+            "Sahil Arora",
+            "Neha",
+            "Meenal",
+            "Sushant Sehgal",
+            "Sakshi"
+        ]
+    },
+    {
+        "start_time":"10:45",
+        "end_time":"11:45",
+        "description":"development team of XYZ project: brainstorming session",
+        "participants":[
+            "Sakshi",
+            "Sumit Arora",
+            "Sahil Arora",
+            "Sushant Sehgal",
+            "Akhil Gupta",
+            "Neha"
+        ]
+    }
+]

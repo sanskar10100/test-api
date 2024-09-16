@@ -1,0 +1,128 @@
+[
+    {
+        "start_time":"12:15",
+        "end_time":"14:15",
+        "description":"XYZ Project: UI\/UX Workshop",
+        "participants":[
+            "Rohit Sharma",
+            "Sumit Arora",
+            "Neha",
+            "Sahil Arora",
+            "Sakshi",
+            "Sushant Sehgal"
+        ]
+    },
+    {
+        "start_time":"16:00",
+        "end_time":"17:00",
+        "description":"XYZ Project: Retrospective Meeting",
+        "participants":[
+            "Akhil Gupta",
+            "Meenal",
+            "Sumit Arora",
+            "Sahil Arora",
+            "Neha",
+            "Sushant Sehgal",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time":"12:45",
+        "end_time":"14:45",
+        "description":"XYZ Project: Bug Triage",
+        "participants":[
+            "Sahil Arora",
+            "Sumit Arora",
+            "Akhil Gupta",
+            "Neha",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time":"15:15",
+        "end_time":"16:15",
+        "description":"XYZ Project: Roadmap Update",
+        "participants":[
+            "Sushant Sehgal",
+            "Sahil Arora",
+            "Rohit Sharma",
+            "Meenal"
+        ]
+    },
+    {
+        "start_time":"12:15",
+        "end_time":"13:15",
+        "description":"XYZ Project: Stand-up Meeting",
+        "participants":[
+            "Sumit Arora",
+            "Neha",
+            "Akhil Gupta",
+            "Sahil Arora",
+            "Sushant Sehgal",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time":"10:30",
+        "end_time":"12:30",
+        "description":"XYZ Project: Client Feedback Session",
+        "participants":[
+            "Meenal",
+            "Sakshi",
+            "Sahil Arora"
+        ]
+    },
+    {
+        "start_time":"13:00",
+        "end_time":"14:00",
+        "description":"XYZ Project: Stand-up Meeting",
+        "participants":[
+            "Meenal",
+            "Sahil Arora",
+            "Neha"
+        ]
+    },
+    {
+        "start_time":"12:30",
+        "end_time":"13:30",
+        "description":"XYZ Project: Bug Triage",
+        "participants":[
+            "Meenal",
+            "Sumit Arora",
+            "Sushant Sehgal",
+            "Akhil Gupta",
+            "Neha",
+            "Sahil Arora",
+            "Sakshi",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "start_time":"11:00",
+        "end_time":"12:00",
+        "description":"XYZ Project: Bug Triage",
+        "participants":[
+            "Sumit Arora",
+            "Rohit Sharma",
+            "Sakshi",
+            "Neha",
+            "Sahil Arora",
+            "Akhil Gupta",
+            "Sushant Sehgal",
+            "Meenal"
+        ]
+    },
+    {
+        "start_time":"15:15",
+        "end_time":"16:15",
+        "description":"XYZ Project: Roadmap Update",
+        "participants":[
+            "Meenal",
+            "Sushant Sehgal",
+            "Rohit Sharma",
+            "Sumit Arora",
+            "Sahil Arora",
+            "Sakshi"
+        ]
+    }
+]
